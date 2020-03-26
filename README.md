@@ -19,10 +19,10 @@ NOVA is an open source video player for Android. It consists in a fork of the or
 This is the entry point repo. It purpose is to provide the manifest to fetch all needed git repos with sources and then bootstrap the build environment.
 
 More interesting sources can be found there:
-- Video https://github.com/nova-video-player/aos-Video
-- MediaLib https://github.com/nova-video-player/aos-MediaLib
-- FileCoreLibrary  https://github.com/nova-video-player/aos-FileCoreLibrary
-- avos https://github.com/nova-video-player/aos-avos
+- Video https://github.com/novaplayer2020/aos-Video
+- MediaLib https://github.com/novaplayer2020/aos-MediaLib
+- FileCoreLibrary  https://github.com/novaplayer2020/aos-FileCoreLibrary
+- avos https://github.com/novaplayer2020/aos-avos
 
 For the full list, please look at this manifest https://github.com/nova-video-player/aos-AVP/default.xml
 
